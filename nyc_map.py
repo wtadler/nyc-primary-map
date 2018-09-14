@@ -32,7 +32,7 @@ m = folium.Map(control_scale=True, min_lat=bounds[0][0], max_lat=bounds[1][0], m
 
 
 def style_function(x):
-    default_color = '#333'
+    default_color = '#fff'
     if frac not in x['properties']:
         color = default_color
     else:
