@@ -97,7 +97,7 @@ info_box = f'''
 }}
 
 .legend .choro5 {{
-  background-color: {colormap(1)};
+  background-color: {colormap(.999)};
 }}
 
 </style>
