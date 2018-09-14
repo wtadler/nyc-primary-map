@@ -106,7 +106,7 @@ info_box = f'''
   <li><span class="choro1"></span>0% Cuomo, 100% Nixon</li><br>
   <li><span class="choro2"></span>25% Cuomo, 75% Nixon</li><br>
   <li><span class="choro3"></span>50% Cuomo, 50% Nixon</li><br>
-  <li><span class="choro4"></span>75% Cuomo, 75% Nixon</li><br>
+  <li><span class="choro4"></span>75% Cuomo, 25% Nixon</li><br>
   <li><span class="choro5"></span>100% Cuomo, 0% Nixon</li><br>
 </ul>
 </div>
