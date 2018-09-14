@@ -128,6 +128,10 @@ info_box2 = '''
 m.get_root().html.add_child(folium.Element(info_box))
 m.get_root().html.add_child(folium.Element(info_box2))
 
+m.get_root().header.add_child(folium.Element(
+    '<meta name="viewport" content="width=device-width,'
+    ' initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />'
+))
 
 m.save('gov_map.html')
 
