@@ -117,7 +117,7 @@ info_box2 = '''
 
 <div style="position: fixed; top: 10px; left: 260px; max-width: 40em; border: 0px; z-index: 9999; font-size: 13px; border-radius: 5px; background-color: #fff; padding: 8px; box-shadow: 0px 2px 4px #888; opacity: 0.85; overflow: auto; margin-right: 20px">
 
-<p>Democratic primary results for the NY governor's race, showing NYC results only. Details, data, and code <a href="https://github.com/wtadler/nyc-primary-map">here</a>.</p>
+<p>Unofficial Democratic primary results for the NY State Governor race held on 9/13/2018, NYC results only. Details, data, and code <a href="https://github.com/wtadler/nyc-primary-map">here</a>.</p>
 
 <p><a href="http://wtadler.com">Will Adler</a> 2018</p>
 
